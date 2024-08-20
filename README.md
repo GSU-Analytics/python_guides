@@ -19,7 +19,7 @@ We welcome contributions! If you have suggestions, improvements, or additional g
 ### How to Make a Pull Request
 
 1. **Fork the Wiki Repository**:
-   - Click the "Fork" button at the top right of the [wiki repository page](https://github.com/GSU-Analytics/python_guides.wiki.git) to create a copy under your GitHub account.
+   - Click the "Fork" button at the top right of the [wiki repository page](https://github.com/GSU-Analytics/python_guides/wiki) to create a copy under your GitHub account.
 
 2. **Clone Your Fork**:
    - Clone your forked wiki repository to your local machine using the following command:
